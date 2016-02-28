@@ -1,0 +1,28 @@
+_repo: The-Englishwoman-in-America_7526
+creator:
+  author:
+    agent_name: Bird, Isabella L. (Isabella Lucy)
+    alias: Bishop, Isabella Lucy Bird
+    birthdate: 1831
+    deathdate: 1904
+    gutenberg_agent_id: '393'
+    url: http://www.gutenberg.org/2009/agents/393
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
+description: Isabella Bird first woman to be elected to the Royal Geographical Society,
+  1831 - 1904. This book was published in 1856, her excursions to mid 19th century
+  America. Shows the changes in America at the turn of the century through her eyes.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Social life and customs -- 1783-1865'
+- !lcc 'E151'
+title: The Englishwoman in America
+url: http://www.gutenberg.org/ebooks/7526
