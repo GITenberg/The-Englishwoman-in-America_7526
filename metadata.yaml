@@ -1,4 +1,8 @@
 _repo: The-Englishwoman-in-America_7526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bird, Isabella L. (Isabella Lucy)
@@ -11,6 +15,8 @@ creator:
 description: Isabella Bird first woman to be elected to the Royal Geographical Society,
   1831 - 1904. This book was published in 1856, her excursions to mid 19th century
   America. Shows the changes in America at the turn of the century through her eyes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7526#The-Englishwoman-in-America
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
